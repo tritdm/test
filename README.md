@@ -18,7 +18,7 @@ x_axis, 0, 		0		, distance
 0, 		y_axis, 0		, distance
 
 0, 		0, 		z_axis	, distance
-
+https://github.com/tritdm/test
 >python3 position.py data.txt
 ### Config anchor positions before using serial mode
 Config x_axis, y_axis, z_axis
@@ -42,3 +42,17 @@ Connect serial (remember to adjust baudrate) and transmit data, change data form
 https://mathworld.wolfram.com/Sphere-SphereIntersection.html?fbclid=IwAR2CTEeBz8VtI9EcXxcPEeetI1HhnNDanEgR0EyoSUpTcILVaMQjrWcjjmM
 
 https://github.com/jremington/UWB-Indoor-Localization_Arduino
+
+
+
+
+
+
+
+
+
+
+
+
+- [ ] [Set up project integrations](https://git.suga.vn/tritdm/alice-sub/-/settings/integrations)
+- [x] [Set up project integrations](https://git.suga.vn/tritdm/alice-sub/-/settings/integrations)
